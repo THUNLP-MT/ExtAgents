@@ -1,0 +1,75 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# virtual environment
+venv/
+ENV/
+env/
+.env
+
+# log files
+*.log
+
+# results folder
+results*/
+
+# data folder (large files)
+data/*.jsonl
+
+# IDE related
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# temporary files
+tmp/
+temp/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# security information
+.env
+credentials.json
+*_key.json
+*_token.json
+
+# model cache
+.cache/
+.vector_cache/
+
+# other temporary files
+.coverage
+htmlcov/
+__pycache__
+.vscode
+*.DS_Store
+*.pyc
+src/plot
+*.jsonl
+*.json
+*.txt
+*.log
+!requirements.txt
+!LICENSE.txt
