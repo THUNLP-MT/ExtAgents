@@ -1,5 +1,11 @@
 # ExtAgents
 
+<p align="center">
+  <a href="https://github.com/THUNLP-MT/ExtAgents">🌐 Github</a> |
+  <a href="https://arxiv.org/abs/2505.21471">📖 Paper</a> |
+  <a href="https://huggingface.co/datasets/zhennan1/ExtAgents">🤗 Data</a>
+</p>
+
 ## Introduction
 
 ExtAgents is a framework for scaling external knowledge input beyond the context length of LLMs via multi-agent collaboration.
