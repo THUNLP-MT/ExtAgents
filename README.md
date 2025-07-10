@@ -44,6 +44,8 @@ The data should be organized as follows:
     └── longbook_qa_chn.jsonl
 ```
 
+**Update**: We have uploaded the long context Q&A datasets both before and after enhancement to [Hugging Face](https://huggingface.co/datasets/zhennan1/ExtAgents). `original` refers to the original dataset, `full-enhanced` indicates the fully enhanced dataset, and `partial-enhanced` signifies the partially enhanced dataset, where only samples with a length not exceeding 128k tokens have been augmented. Welcome to download and use!
+
 ## Usage
 
 ### Generation
